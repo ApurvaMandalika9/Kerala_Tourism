@@ -1,1 +1,3 @@
 # Kerala_Tourism
+
+As part of BTech. coursework, this database was designed to manage information about Kerala's tourism departments located across various tourist destinations. It keeps records of tourist attractions in these locations, enabling the departments to assist customers with inquiries. The system provides customers with comprehensive details about available facilities, such as resorts (both privately owned and government-operated), travel assistance (vehicles tailored to the number of travelers), and tour packages. Additionally, it stores the details of customers who register to avail these facilities.
